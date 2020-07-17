@@ -1,4 +1,4 @@
-# TSP
+# Travelling salesman problem
 
 Solution for the famous tsp problem using algorithms:
 
