@@ -1,4 +1,4 @@
-# TSP-problem
+# TSP
 
 Solution for the famous tsp problem using algorithms:
 
